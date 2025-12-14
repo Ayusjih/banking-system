@@ -1,4 +1,4 @@
-# 2025-12-14 23:18:00 bank.py
+
 import os
 
 # Configuration: File to store the balance
